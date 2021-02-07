@@ -1,0 +1,9 @@
+{
+    "name": "edu.umn.cs.ivlab.newtonsoft.json.schema",
+    "description": "Newtonsoft JSON Schema",
+    "authors": "author",
+    "version": "3.0.13",
+    "dependencies": {
+        "edu.umn.cs.ivlab.newtonsoft.json": "git@github.umn.edu/ivlab-cs/NewtonsoftJson-UnityPackage.git#12.0.3"
+    }
+}
