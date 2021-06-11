@@ -4,6 +4,6 @@
     "authors": "author",
     "version": "3.0.13",
     "dependencies": {
-        "edu.umn.cs.ivlab.newtonsoft.json": "git@github.umn.edu/ivlab-cs/NewtonsoftJson-UnityPackage.git#12.0.3"
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
     }
 }
