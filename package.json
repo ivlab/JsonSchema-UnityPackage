@@ -3,8 +3,5 @@
     "displayName": "Newtonsoft Json Schema",
     "description": "Newtonsoft JSON Schema downloaded from NuGet",
     "authors": {"name": "James Newton-King", "url": "https://www.nuget.org/packages/Newtonsoft.Json.Schema/3.0.15-beta2#versions-body-tab"},
-    "version": "3.0.15-beta2",
-    "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.0"
-    }
+    "version": "3.0.15-beta2"
 }
